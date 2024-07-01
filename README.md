@@ -7,6 +7,7 @@ Hi, I'm Harnain Kaur Sardarni! I'm a current graduate student who is pursuing he
 - [Hydroponic System: Nutrient Management Optimization](https://github.com/harnain13/Hydroponic-System-Nutrient-Management-Optimization)
 - [Predicting Obesity Levels using Machine Learning](https://github.com/harnain13/Predicting-Obesity-Levels-using-ML)
 - [House Price Prediction](https://github.com/harnain13/House-Price-Prediction)
+- [Analyzing Taylor Swift songs using Sentiment Analysis](https://github.com/harnain13/Analyzing-Taylor-Swift-songs-using-Sentiment-Analysis)
 - [Movie Genre and Revenue Prediction with ML](https://github.com/harnain13/Movie-Genre-and-Revenue-Prediction-with-Machine-Learning)
 - [Education Dataset Covid-19 Analysis](https://github.com/harnain13/Impact-of-COVID-19-on-education)
 - [Financial Time Series Analysis of Fortune 500 Companies](https://github.com/harnain13/Financial-Time-Series-Analysis-of-Fortune-500-Companies)
