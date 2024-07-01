@@ -13,6 +13,7 @@ Hi, I'm Harnain Kaur Sardarni! I'm a current graduate student who is pursuing he
 - [Data Analysis and Machine Learning on Yelp Dataset](https://github.com/harnain13/Data-Analysis-using-ML-on-Yelp-DatasetYelp-Dataset)
 
 ## Get in Touch
+- [View My Resume](https://github.com/harnain13/Resume)
 - [LinkedIn](https://www.linkedin.com/in/harnain-kaur-22032001w13/)
 - [Email](mailto:harnain13@gmail.com)
 
