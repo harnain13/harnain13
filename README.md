@@ -1,7 +1,7 @@
 # Hi there! Welcome to My GitHub Profile!
 
 ## About Me
-Hi, I'm Harnain Kaur Sardarni! I'm a current graduate student who is pursuing her Master's in Data Science. I am deeply invested in leveraging data to generate impactful insights. My practical experience in Python has set a solid foundation for my analytical skills, and I am enthusiastic about further developing my expertise in AI and broadening my programming skills.
+Hi, I'm Harnain Kaur Sardarni, a Data Science graduate passionate about leveraging data to drive impactful insights and innovative solutions. With a solid foundation in Python and hands on experience in predictive modeling and machine learning, I've tackled diverse projects, from optimizing nutrient management in hydroponics to predicting obesity levels with advanced algorithms. My journey through esteemed institutions like DePaul University and the Institute of Insurance and Risk Management has equipped me with a robust analytical skill set and a knack for leadership. I excel in dynamic environments where I can combine my technical expertise and problem solving skills to tackle complex challenges. I'm always on the lookout for opportunities to push the boundaries of what's possible with data. Let's connect and see how we can create transformative solutions together!
 
 ## My Projects
 - [Hydroponic System: Nutrient Management Optimization](https://github.com/harnain13/Hydroponic-System-Nutrient-Management-Optimization)
