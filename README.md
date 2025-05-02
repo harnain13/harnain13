@@ -16,7 +16,7 @@ Hi, I'm Harnain Kaur Sardarni, a Data Science graduate passionate about leveragi
 ## Get in Touch
 - [Resume](https://github.com/harnain13/Resume/blob/main/HARNAIN_KAUR_S_RESUME.pdf)
 - [LinkedIn](https://www.linkedin.com/in/harnainkaur-sardarni/)
-- [Email](mailto:harnain13@gmail.com)
+- [Email](mailto:harnainkaursardarni@gmail.com)
 
 ## Skills
 - **Programming languages**: Python, R, Java, HTML, CSS, JavaScript, C, C++
