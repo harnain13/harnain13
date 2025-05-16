@@ -14,7 +14,7 @@ Hi, I'm Harnain Kaur Sardarni, a Data Science graduate passionate about leveragi
 - [Data Analysis and Machine Learning on Yelp Dataset](https://github.com/harnain13/Data-Analysis-using-ML-on-Yelp-DatasetYelp-Dataset)
 
 ## Get in Touch
-- [Resume](https://github.com/harnain13/Resume/blob/main/HARNAIN_KAUR_S_RESUME.pdf)
+- [Resume](https://github.com/harnain13/Resume/blob/main/HarnainKaur_Sardarni.pdf)
 - [LinkedIn](https://www.linkedin.com/in/harnainkaur-sardarni/)
 - [Email](mailto:harnainkaursardarni@gmail.com)
 
