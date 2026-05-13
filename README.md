@@ -24,12 +24,12 @@ I am a detail-oriented **Data Scientist** focused on uncovering hidden patterns 
 - **[Emotionally Aware Healthcare Chatbot](link-to-repo):** Multi-modal detection (BERT + MobileNetV2) with 92% sentiment accuracy.
 - **[Hydroponic Nutrient Optimizer](link-to-repo):** Gradient Boosting models for autonomous vertical farming.
 - **[Obesity Level Prediction](link-to-repo):** High-accuracy health risk assessment using XGBoost and LightGBM.
-- **[House Price Prediction](https://github.com/harnain13/House-Price-Prediction)
-- **[Analyzing Taylor Swift songs using Sentiment Analysis](https://github.com/harnain13/Analyzing-Taylor-Swift-songs-using-Sentiment-Analysis)
-- **[Movie Genre and Revenue Prediction with ML](https://github.com/harnain13/Movie-Genre-and-Revenue-Prediction-with-Machine-Learning)
-- **[Education Dataset Covid-19 Analysis](https://github.com/harnain13/Impact-of-COVID-19-on-education)
-- **[Financial Time Series Analysis of Fortune 500 Companies](https://github.com/harnain13/Financial-Time-Series-Analysis-of-Fortune-500-Companies)
-- **[Data Analysis and Machine Learning on Yelp Dataset](https://github.com/harnain13/Data-Analysis-using-ML-on-Yelp-DatasetYelp-Dataset)
+- [House Price Prediction](https://github.com/harnain13/House-Price-Prediction)
+- [Analyzing Taylor Swift songs using Sentiment Analysis](https://github.com/harnain13/Analyzing-Taylor-Swift-songs-using-Sentiment-Analysis)
+- [Movie Genre and Revenue Prediction with ML](https://github.com/harnain13/Movie-Genre-and-Revenue-Prediction-with-Machine-Learning)
+- [Education Dataset Covid-19 Analysis](https://github.com/harnain13/Impact-of-COVID-19-on-education)
+- [Financial Time Series Analysis of Fortune 500 Companies](https://github.com/harnain13/Financial-Time-Series-Analysis-of-Fortune-500-Companies)
+- [Data Analysis and Machine Learning on Yelp Dataset](https://github.com/harnain13/Data-Analysis-using-ML-on-Yelp-DatasetYelp-Dataset)
 
 ## Get in Touch 📫 Connect with Me
 - [Resume](https://github.com/harnain13/Resume/blob/main/HarnainKaur_Sardarni.pdf)
